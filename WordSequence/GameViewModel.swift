@@ -78,11 +78,11 @@ final class GameViewModel {
         Color(red: 1.00, green: 0.40, blue: 0.40),  // coral
         Color(red: 1.00, green: 0.60, blue: 0.20),  // orange
         Color(red: 0.95, green: 0.80, blue: 0.10),  // yellow
-        Color(red: 0.25, green: 0.78, blue: 0.38),  // green
         Color(red: 0.20, green: 0.78, blue: 0.92),  // cyan
         Color(red: 0.50, green: 0.38, blue: 1.00),  // purple
         Color(red: 1.00, green: 0.38, blue: 0.78),  // pink
         Color(red: 0.28, green: 0.65, blue: 1.00),  // blue
+        Color(red: 0.95, green: 0.45, blue: 0.65),  // rose
     ]
 
     static let defaultWords: [String] = [

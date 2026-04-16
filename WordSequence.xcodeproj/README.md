@@ -13,6 +13,7 @@ This game transforms that therapeutic concept into an engaging, colorful experie
 - **Patience** — waiting for all information before acting
 - **Focus** — maintaining attention throughout the task
 - **Visual processing** — tracking multiple items on screen
+- **Letter and word recognition** — because the game uses words instead of images or shapes, early learners naturally practice reading and recognizing written text
 
 ## How to Play
 
@@ -80,6 +81,8 @@ Settings are designed to be accessible to parents and caregivers while remaining
 - Use familiar words to build confidence
 - Add themed words (animals, colors, family members, etc.)
 - Words are randomly selected each round, so the game stays fresh
+- **Personalize for engagement:** Add names of friends and family, favorite places or locations, or our personal favorite — funny sounding words that get a laugh!
+- **Completely customizable:** The default word list can be deleted and replaced entirely with your own words that are meaningful to your child
 
 ### Round Settings
 

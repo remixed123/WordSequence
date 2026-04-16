@@ -55,7 +55,7 @@ struct SettingsView: View {
                     VStack(alignment: .leading, spacing: 8) {
                         Text("Time between words: \(String(format: "%.1f", viewModel.revealInterval))s")
                             .font(.system(.body, design: .rounded))
-                        Slider(value: $viewModel.revealInterval, in: 0.5...5.0, step: 0.5)
+                        Slider(value: $viewModel.revealInterval, in: 0.1...5.0, step: 0.1)
                     }
                     .padding(.vertical, 4)
                 }
